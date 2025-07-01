@@ -1,0 +1,56 @@
+[
+  {
+    "icon": "fas fa-bed",
+    "title": "Residential Suites",
+    "description": "Private and shared elegantly furnished living spaces designed for comfort and community.",
+    "features": [
+      "Housekeeping Services",
+      "Laundry Services",
+      "Maintenance Services"
+    ],
+    "background": "assets/images/room-2.jpg"
+  },
+  {
+    "icon": "fas fa-spa",
+    "title": "Hotel Amenities",
+    "description": "State of the art facilities including a fitness center and spa to enhance the resident experience.",
+    "features": ["Fitness center", "Wellness Spa", "Recreational lounges"],
+    "background": "assets/images/gym-1.jpg"
+  },
+  {
+    "icon": "fas fa-utensils",
+    "title": "Dining & Entertainment",
+    "description": "Restaurant-style dining with a focus on healthy, locally sourced meals and engaging social activities.",
+    "features": ["Dining Hall", "Movie Theater", "Reading Rooms"],
+    "background": "assets/images/dining-1.png"
+  },
+  {
+    "icon": "fas fa-heartbeat",
+    "title": "Health & Wellness Services",
+    "description": "Comprehensive health services including regular check-ups, medication management, and wellness programs.",
+    "features": ["On-site Medical Center", "Physical Therapy", "Mental Health Support"],
+    "background": "assets/images/wellness-2.jpg"
+  },
+  {
+    "icon": "fas fa-chess-knight",
+    "title": "Social & Lifestyle Programs",
+    "description": "Engaging activities and events designed to promote social interaction and a vibrant community life.",
+    "features": [
+      "Gardening Clubs",
+      "Game Nights",
+      "Cultural Outings & Events"
+    ],
+    "background": "assets/images/smiles-1.jpg"
+  },
+  {
+    "icon": "fas fa-user-nurse",
+    "title": "Custom Care Packages",
+    "description": "Tailored care plans for residents needing light assistance, with optional upgrades for more intensive support",
+    "features": [
+      "Personalized Care Plans",
+      "Assistance with Daily Activities",
+      "Medication Management"
+    ],
+    "background": "assets/images/patient-1.jpg"
+  }
+]
