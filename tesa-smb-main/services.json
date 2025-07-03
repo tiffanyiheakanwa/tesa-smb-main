@@ -29,7 +29,7 @@
     "title": "Health & Wellness Services",
     "description": "Comprehensive health services including regular check-ups, medication management, and wellness programs.",
     "features": ["On-site Medical Center", "Physical Therapy", "Mental Health Support"],
-    "background": "assets/images/wellness-2.jpg"
+    "background": "assets/images/wellness-1.jpg"
   },
   {
     "icon": "fas fa-chess-knight",
